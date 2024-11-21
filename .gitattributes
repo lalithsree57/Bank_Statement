@@ -1,0 +1,1 @@
+bank-statement-aggregator filter=lfs diff=lfs merge=lfs -text
