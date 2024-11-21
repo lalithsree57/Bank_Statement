@@ -1,1 +1,2 @@
+New[[:space:]]folder filter=lfs diff=lfs merge=lfs -text
 bank-statement-aggregator filter=lfs diff=lfs merge=lfs -text
